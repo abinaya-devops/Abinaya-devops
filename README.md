@@ -1,30 +1,30 @@
-## Hi, I'm Abinaya 👋
+# Hi, I'm Abinaya 👋
 
-💻 Passionate about Cloud, DevOps & Continuous Learning
+## 💻 About Me
+☁️ Aspiring DevOps Engineer  
+🚀 Learning AWS, Linux, Git & DevOps  
+📚 Passionate about Cloud & Automation
 
-☁️ Aspiring DevOps Engineer
+---
 
-🚀 Currently Learning:
-- AWS
+## 🛠️ Skills
 - Linux
+- AWS Basics
 - Git & GitHub
-- DevOps
-
-🛠️ Skills & Tools:
 - HTML
 - CSS
 - JavaScript
-- Git & GitHub
-- Linux
-- AWS Basics
 
-📚 Goals:
+---
+
+## 🎯 Goals
 - Become a DevOps Engineer
 - Build real-world projects
-- Learn Cloud & Automation
 - Work at top tech companies
 
-📫 Connect with me:
+---
+
+## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/abinaya1023
 
 <!--
