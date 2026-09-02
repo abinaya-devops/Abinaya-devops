@@ -14,6 +14,7 @@
 
 ---
 
+
 ## 👩‍💻 About Me
 
 I'm a **BCA graduate (2026)** with a strong interest in **Cloud Computing and DevOps**.
@@ -28,17 +29,21 @@ I'm continuously learning through platforms such as **AWS Skill Builder, LabEx, 
 
 ---
 
+
 ## 🛠️ Tech Stack
+
 
 ### ☁️ Cloud & DevOps
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,bash" />
 </p>
 
+
 ### 💻 Programming & Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,go,html,css,js,react" />
 </p>
+
 
 ### ⚙️ Tools & Platforms
 <p align="left">
@@ -46,6 +51,7 @@ I'm continuously learning through platforms such as **AWS Skill Builder, LabEx, 
 </p>
 
 ---
+
 
 ## 📚 Currently Learning
 
@@ -61,6 +67,7 @@ I'm continuously learning through platforms such as **AWS Skill Builder, LabEx, 
 
 ---
 
+
 ## 🎓 Certifications
 
 | Certification | Platform | Status |
@@ -69,9 +76,12 @@ I'm continuously learning through platforms such as **AWS Skill Builder, LabEx, 
 | ☁️ Introduction to Cloud Computing | Simplilearn | ✅ Completed |
 | ☁️ AWS Cloud Practitioner Essentials | AWS Skill Builder | 🔄 In Progress |
 
+
 ---
 
+
 ## 🚀 Featured Projects
+
 
 ### 🐧 Linux Self-Healing Monitor
 
@@ -91,6 +101,7 @@ A Linux system monitoring project focused on monitoring system health and automa
 https://github.com/abinaya-devops/Linux-self-healing-monitor.git
 
 ---
+
 
 ### 🛡️ Linux Disaster Recovery
 
@@ -114,6 +125,7 @@ https://github.com/abinaya-devops/linux-disaster-recovery.git
 > 💡 More Cloud and DevOps projects will be added as I continue building and gaining hands-on experience.
 
 ---
+
 
 ## 📚 DevOps Learning Journey
 
@@ -147,6 +159,7 @@ https://github.com/abinaya-devops/devops-learning-journey.git
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -157,11 +170,13 @@ https://github.com/abinaya-devops/devops-learning-journey.git
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinaya-devops&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
+
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=abinaya-devops&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 ## 👀 Profile Visitors
 
@@ -170,6 +185,7 @@ https://github.com/abinaya-devops/devops-learning-journey.git
 </p>
 
 ---
+
 
 ## 🎯 2026 Goals
 
@@ -185,11 +201,13 @@ https://github.com/abinaya-devops/devops-learning-journey.git
 
 ---
 
+
 ## 💭 My DevOps Mindset
 
 > **Learn → Practice → Build → Automate → Document → Improve**
 
 I believe that DevOps is not just about learning tools — it's about understanding how systems work and continuously improving the way we build, deploy, and maintain them.
+
 
 ### 🔹 How I Learn
 
@@ -201,6 +219,7 @@ I believe that DevOps is not just about learning tools — it's about understand
 - 🔍 Troubleshoot and learn from mistakes
 - 🚀 Keep improving consistently
 
+
 ### 🌱 My Approach
 
 **Consistency over perfection.**
@@ -208,6 +227,7 @@ I believe that DevOps is not just about learning tools — it's about understand
 Every lab, script, project, and learning note is another step toward becoming a better DevOps Engineer.
 
 ---
+
 
 ## 📈 My Learning Journey
 
@@ -225,6 +245,7 @@ Every lab, script, project, and learning note is another step toward becoming a 
 
 ---
 
+
 ## 📫 Connect With Me
 
 <p align="left">
@@ -239,6 +260,7 @@ Every lab, script, project, and learning note is another step toward becoming a 
 💬 I'm always interested in connecting with people in **Cloud, DevOps, Linux, Automation, and Software Development**.
 
 ---
+
 
 ## 🚀 Currently Focused On
 
@@ -270,6 +292,7 @@ Every lab, script, project, and learning note is another step toward becoming a 
 
 ---
 
+
 ## 📊 GitHub Activity
 
 <p align="center">
@@ -278,6 +301,7 @@ Every lab, script, project, and learning note is another step toward becoming a 
 
 ---
 
+
 ## 💻 Coding Journey
 
 > **Code → Test → Deploy → Monitor → Improve**
@@ -285,6 +309,7 @@ Every lab, script, project, and learning note is another step toward becoming a 
 I'm building my DevOps journey through hands-on practice, projects, experiments, and continuous learning.
 
 ---
+
 
 ## 🌱 Beyond Coding
 
@@ -300,6 +325,7 @@ When I'm not learning or building projects, I enjoy:
 
 ---
 
+
 ## 💭 A Quote I Believe In
 
 > **“The best way to predict the future is to create it.”**
@@ -307,6 +333,7 @@ When I'm not learning or building projects, I enjoy:
 I believe every small step in learning, every challenge, and every project contributes to building a better future.
 
 ---
+
 
 ## 🤝 Let's Connect
 
