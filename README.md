@@ -1,7 +1,7 @@
-<div align="center">
 <p align="center">
   <img src="./top-banner.gif" width="100%" />
 </p>
+<div align="center">
 # 👋 Hi, I'm Abinaya
 
 ### ☁️ Aspiring DevOps Engineer
