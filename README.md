@@ -4,7 +4,7 @@
 
 <div align="center">
   
-# 👋 Hi, I'm Abinaya
+#  <i>Hi, I'm Abinaya</i> 👋🏻
 
 ### ☁️ Aspiring DevOps Engineer
 
