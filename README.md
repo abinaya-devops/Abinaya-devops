@@ -186,7 +186,6 @@ https://github.com/abinaya-devops/devops-learning-journey.git
 - 🚀 Prepare for a career as a DevOps Engineer
 
 ---
----
 
 ## 💭 My DevOps Mindset
 
@@ -243,8 +242,6 @@ Every lab, script, project, and learning note is another step toward becoming a 
 
 ---
 
----
-
 ## 🚀 Currently Focused On
 
 <table>
@@ -275,8 +272,6 @@ Every lab, script, project, and learning note is another step toward becoming a 
 
 ---
 
----
-
 ## 📊 GitHub Activity
 
 <p align="center">
@@ -290,8 +285,6 @@ Every lab, script, project, and learning note is another step toward becoming a 
 > **Code → Test → Deploy → Monitor → Improve**
 
 I'm building my DevOps journey through hands-on practice, projects, experiments, and continuous learning.
-
----
 
 ---
 
@@ -309,15 +302,11 @@ When I'm not learning or building projects, I enjoy:
 
 ---
 
----
-
 ## 💭 A Quote I Believe In
 
 > **“The best way to predict the future is to create it.”**
 
 I believe every small step in learning, every challenge, and every project contributes to building a better future.
-
----
 
 ---
 
