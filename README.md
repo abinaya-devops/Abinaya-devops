@@ -136,6 +136,7 @@ Continuing to strengthen my understanding of web development and modern developm
 
 📖 **I document my learning progress, notes, experiments, and hands-on practice here:**
 
-🔗 [DevOps Learning Journey](YOUR_LEARNING_REPOSITORY_LINK)
+🔗 [DevOps Learning Journey]
+https://github.com/abinaya-devops/devops-learning-journey.git
 
 ---
