@@ -102,7 +102,8 @@ A Linux-based disaster recovery project focused on improving system reliability 
 - 🔄 Recovery automation
 - 📝 Documented recovery procedures
 
-🔗 [View Project on GitHub](YOUR_LINUX_DISASTER_RECOVERY_REPO_LINK)
+🔗 [View Project on GitHub]
+https://github.com/abinaya-devops/linux-disaster-recovery.git
 
 ---
 
@@ -141,3 +142,25 @@ Continuing to strengthen my understanding of web development and modern developm
 https://github.com/abinaya-devops/devops-learning-journey.git
 
 ---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abinaya-devops&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinaya-devops&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=abinaya-devops&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abinaya-devops&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
