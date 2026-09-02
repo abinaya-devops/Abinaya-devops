@@ -7,11 +7,9 @@
 #  <i>Hi, I'm Abinaya</i> 👋🏻
 
 ### ☁️ Aspiring DevOps Engineer
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1200&color=6B8F71&center=true&vCenter=true&width=750&lines=DevOps+Engineer;Cloud+%26+DevOps+Enthusiast;Cloud+Engineer;AWS+Cloud+Engineer;Linux+Learner;Docker+Learner;Kubernetes+Learner;Terraform+Learner;Ansible+Learner;Python+Learner;Go+Learner;SRE+Enthusiast;Project+Builder;Problem+Solver;Automation+Enthusiast" alt="Typing SVG" />
 </p>
-
 </div>
 
 ---
