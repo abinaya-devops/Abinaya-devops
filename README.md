@@ -164,3 +164,173 @@ https://github.com/abinaya-devops/devops-learning-journey.git
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abinaya-devops&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+---
+
+## 🎯 2026 Goals
+
+- ☁️ Strengthen my AWS & Cloud Computing knowledge
+- 🐧 Improve Linux system administration skills
+- 🐚 Build practical Bash automation scripts
+- 🐳 Gain hands-on experience with Docker
+- 🔄 Learn and implement CI/CD pipelines
+- ⚙️ Build real-world DevOps projects
+- 🛠️ Improve problem-solving and troubleshooting skills
+- 📚 Maintain a consistent DevOps learning journey
+- 🚀 Prepare for a career as a DevOps Engineer
+
+---
+---
+
+## 💭 My DevOps Mindset
+
+> **Learn → Practice → Build → Automate → Document → Improve**
+
+I believe that DevOps is not just about learning tools — it's about understanding how systems work and continuously improving the way we build, deploy, and maintain them.
+
+### 🔹 How I Learn
+
+- 📖 Understand the fundamentals
+- 🧪 Practice through hands-on labs
+- 🛠️ Build practical projects
+- ⚙️ Automate repetitive tasks
+- 📝 Document what I learn
+- 🔍 Troubleshoot and learn from mistakes
+- 🚀 Keep improving consistently
+
+### 🌱 My Approach
+
+**Consistency over perfection.**
+
+Every lab, script, project, and learning note is another step toward becoming a better DevOps Engineer.
+
+---
+
+## 📈 My Learning Journey
+
+| Area | Focus |
+|---|---|
+| ☁️ Cloud | AWS & Cloud Computing |
+| 🐧 Linux | System Administration & Troubleshooting |
+| 🐚 Automation | Bash Scripting |
+| 🔄 DevOps | Git, Docker & CI/CD |
+| 🐍 Programming | Python |
+| 🐹 Programming | Go |
+| 🌐 Development | Web Development |
+
+> 🚀 Learning continuously. Building practically. Growing consistently.
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/abinaya1023">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="abinaya12.tech@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+💬 I'm always interested in connecting with people in **Cloud, DevOps, Linux, Automation, and Software Development**.
+
+---
+
+---
+
+## 🚀 Currently Focused On
+
+<table>
+<tr>
+<td width="50%">
+
+### ☁️ Cloud & Infrastructure
+- AWS fundamentals
+- EC2 & cloud infrastructure
+- Linux administration
+- System reliability
+
+</td>
+<td width="50%">
+
+### ⚙️ DevOps & Automation
+- Bash scripting
+- Git & GitHub
+- Docker
+- CI/CD
+- Automation practices
+
+</td>
+</tr>
+</table>
+
+> 🔨 **Learning by building. Improving through practice.**
+
+---
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abinaya-devops&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 💻 Coding Journey
+
+> **Code → Test → Deploy → Monitor → Improve**
+
+I'm building my DevOps journey through hands-on practice, projects, experiments, and continuous learning.
+
+---
+
+---
+
+## 🌱 Beyond Coding
+
+When I'm not learning or building projects, I enjoy:
+
+- ✍️ Writing and exploring creative ideas
+- 🎨 Exploring design and UI/UX
+- 🌊 Finding inspiration in nature and the world around me
+- 📚 Continuously learning new skills
+- 💡 Exploring new ideas and technologies
+
+> ✨ **Stay curious. Keep learning. Keep building.**
+
+---
+
+---
+
+## 💭 A Quote I Believe In
+
+> **“The best way to predict the future is to create it.”**
+
+I believe every small step in learning, every challenge, and every project contributes to building a better future.
+
+---
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to connecting with fellow developers, DevOps enthusiasts, and people interested in Cloud Computing and technology.
+
+If you'd like to connect, collaborate, or share ideas, feel free to reach out! 🚀
+
+<p align="center">
+  <b>Thanks for visiting my profile! 💙</b>
+</p>
+
+<p align="center">
+  ⭐ Keep Learning &nbsp; • &nbsp; 🛠️ Keep Building &nbsp; • &nbsp; 🚀 Keep Growing
+</p>
+
+---
+
+<p align="center">
+  <i>Built with curiosity, consistency, and a passion for learning.</i>
+</p>
