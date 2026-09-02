@@ -340,3 +340,7 @@ If you'd like to connect, collaborate, or share ideas, feel free to reach out! ð
 <p align="center">
   <i>Built with curiosity, consistency, and a passion for learning.</i>
 </p>
+
+<p align="center">
+  <img src="./bottom-banner.gif" width="100%" />
+</p>
