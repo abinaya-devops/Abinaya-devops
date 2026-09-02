@@ -83,7 +83,8 @@ A Linux system monitoring project focused on monitoring system health and automa
 - 📝 Maintains system monitoring logs
 - 🚨 Uses configurable resource thresholds
 
-🔗 [View Project on GitHub](YOUR_LINUX_SELF_HEALING_REPO_LINK)
+🔗 [View Project on GitHub]
+https://github.com/abinaya-devops/Linux-self-healing-monitor.git
 
 ---
 
