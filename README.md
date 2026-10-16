@@ -74,7 +74,10 @@ I'm continuously learning through platforms such as **AWS Skill Builder, LabEx, 
 |---|---|---|
 | ☁️ Get Started with AWS | Simplilearn | ✅ Completed |
 | ☁️ Introduction to Cloud Computing | Simplilearn | ✅ Completed |
+| 🐍 Python Developer| Sololearn | ✅ Completed |
 | ☁️ AWS Cloud Practitioner Essentials | AWS Skill Builder | 🔄 In Progress |
+| 🐍 Python Certification | Freecodecamp |
+ 🔄 In progress |
 
 
 ---
